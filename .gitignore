@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.env
+*.key
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
